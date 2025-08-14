@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+deep-translator==1.9.1
+requests
+aiohttp
